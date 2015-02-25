@@ -1,0 +1,77 @@
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=utf-8">
+	<TITLE></TITLE>
+	<META NAME="GENERATOR" CONTENT="LibreOffice 4.0.5.2 (Linux)">
+	<META NAME="AUTHOR" CONTENT="Albert Ma">
+	<META NAME="CREATED" CONTENT="20150225;1400000">
+	<META NAME="CHANGEDBY" CONTENT="Albert Ma">
+	<META NAME="CHANGED" CONTENT="20150225;4310000">
+	<META NAME="AppVersion" CONTENT="14.0000">
+	<META NAME="Company" CONTENT="First Michigan Bank">
+	<META NAME="DocSecurity" CONTENT="0">
+	<META NAME="HyperlinksChanged" CONTENT="false">
+	<META NAME="LinksUpToDate" CONTENT="false">
+	<META NAME="ScaleCrop" CONTENT="false">
+	<META NAME="ShareDoc" CONTENT="false">
+	<STYLE TYPE="text/css">
+	<!--
+		@page { size: 8.5in 11in; margin: 1in }
+		P { margin-bottom: 0.08in; direction: ltr; widows: 2; orphans: 2 }
+		A:link { color: #0000ff; so-language: zxx }
+	-->
+	</STYLE>
+</HEAD>
+<BODY LANG="en-US" LINK="#0000ff" DIR="LTR">
+<P ALIGN=RIGHT STYLE="margin-bottom: 0in; line-height: 200%"><A NAME="_GoBack"></A>
+<FONT COLOR="#000000">Albert Ma</FONT></P>
+<P ALIGN=RIGHT STYLE="margin-bottom: 0in; line-height: 200%"><FONT COLOR="#000000">Research
+Paper TC  362</FONT></P>
+<P STYLE="margin-bottom: 0in; line-height: 200%"><FONT COLOR="#000000"><BR>
+        TechSmith is a software development company, that creates a
+variety of small programs to enhance the users computer experience.
+They sell mainly video recording and screen capturing software on
+their website. I chose TechSmith because the place that I work at
+works closely with Techsmith products, and the things we use like
+Snag it or Camtasia are used to create a multitude of content that we
+see on d2l every day.<BR><BR>         For media hosting they use a
+lot of 3rd party websites such as screencast.com to store their
+content. It seems like for most of their programs they would either
+have a 3rd party storage site or recommend that content be uploaded
+to your own FTP servers on the client side. On the server side
+TechSmith has used direct-attached-storage on five servers to store
+the content which have  a total of more than 150 terabytes of data.
+Due to the high management costs and poor reporting of the website,
+TechSmith decided to switch to the Microsoft Azure platform for
+product development and host production workloads. Microsoft Azure is
+a public cloud environment that provides virtual computing,
+networking, storage, and other resources for developing and hosting
+applications in Microsoft datacenters. Techsmith also purchased two
+StorSimple devices to lower storage costs and enable offsite disaster
+recovery. The primary application servers currently store data on a
+storage area network (SAN).</FONT></P>
+<P STYLE="text-indent: 0.5in; margin-bottom: 0in; line-height: 200%"><FONT COLOR="#000000">TechSmith
+uses the Digital River network for secure ad and virus free shopping
+protection. The Digital River is a company that provides global
+ecommerce, payments in marketing services for multiple companies.
+They seem to be driving one of the largest commerce management
+businesses globally, that take care of a wide range of things from
+payment securities to business infrastructure. To keep their networks
+protected they keep routine patch checks on Windows Server, ISS, SQL
+server, TechSmith Relay, LDAF server software, etc. to make sure that
+all their vulnerabilities are in check, which fix previously
+discovered vulnerabilities.<BR><BR>            To handle deployment,
+they created multiple guides online on how to use all their software.
+Most of them are created for educational purposes. The focus of their
+products are around screen capture and recording software. Most of
+their software they do create is listed as open source software
+listed under the end user license agreement.</FONT></P>
+<P STYLE="margin-bottom: 0.14in"><BR><BR>
+</P>
+<P ALIGN=LEFT STYLE="margin-top: 0.08in; margin-bottom: 0in; line-height: 0.14in">
+<FONT COLOR="#0072c6"><FONT FACE="Segoe UI, serif"><FONT SIZE=1 STYLE="font-size: 8pt"><FONT COLOR="#00000a"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt">Brian
+Pillar, IT Manager, TechSmith, July, 2014 </FONT></FONT></FONT><FONT COLOR="#00000a"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><A HREF="http://customers.microsoft.com/Pages/Download.aspx?id=4267">TechSmith
+Case Study - Microsoft</A>
+</FONT></FONT></FONT><FONT COLOR="#00000a"><FONT FACE="Calibri, serif"><FONT SIZE=2 STYLE="font-size: 11pt"><SPAN STYLE="background: #ffffff">customers.microsoft.com/Pages/Download.aspx?id=426</SPAN></FONT></FONT></FONT></FONT></FONT></FONT></P>
+</BODY>
+</HTML>
